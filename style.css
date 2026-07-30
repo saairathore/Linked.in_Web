@@ -1,0 +1,44 @@
+*{
+    overflow-x: hidden;
+}
+
+.black_hover:hover{
+    color: black;
+}
+
+.Join_hover:hover{
+    background-color: #F0F7FE;
+    color:#004182;
+}
+
+.sign_hover:hover{
+    background-color:#004182
+
+}
+
+.tag_hover:hover{
+    background-color:#F5F5F5;
+    
+}
+
+.three_point:hover{
+    background-color:#E1DAD0;
+}
+
+#big_img{
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.you-body{
+    position: relative;
+    
+}
+
+.you{
+    position: absolute;
+    top: 4350px;
+    right: 900px;
+    
+}
