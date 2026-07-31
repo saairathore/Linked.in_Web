@@ -21,6 +21,10 @@
     
 }
 
+.tag_hover_w:hover{
+    background-color: white;
+}
+
 .three_point:hover{
     background-color:#E1DAD0;
 }
@@ -42,3 +46,9 @@
     right: 900px;
     
 }
+
+.big_img{
+    background-image: url(./assest/last_long_img);
+    background-position: bottom;
+}
+
